@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Website-using-react/static/css/main.9c423614.css",
+    "main.js": "/Website-using-react/static/js/main.35cf8468.js",
+    "static/media/rocket.webp": "/Website-using-react/static/media/rocket.7e03f781a9985e86d4e7.webp",
+    "index.html": "/Website-using-react/index.html",
+    "main.9c423614.css.map": "/Website-using-react/static/css/main.9c423614.css.map",
+    "main.35cf8468.js.map": "/Website-using-react/static/js/main.35cf8468.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c423614.css",
+    "static/js/main.35cf8468.js"
+  ]
+}
